@@ -13,11 +13,4 @@ Aprofundar o domínio na linguagem Python para automatizar pipelines de dados, r
 * **`02-mini-projetos/`**: Projetos e desafios focados em análise exploratória com Pandas, NumPy, aplicações práticas e scripts completos desenvolvidos durante a formação.
 
 ---
-
-## 🛠️ Tecnologias e Ferramentas
-* Python 3.x
-* Pandas & NumPy (Em desenvolvimento)
-* Git & GitHub
-
----
 📊 *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/weeriky-santos)*
