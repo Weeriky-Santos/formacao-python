@@ -9,10 +9,8 @@ Aprofundar o domínio na linguagem Python para automatizar pipelines de dados, r
 
 ## 📂 Estrutura do Repositório
 
-* **`01-fundamentos/`**: Exercícios de lógica de programação, estruturas condicionais e de repetição.
-* **`02-estruturas-de-dados/`**: Manipulação de listas, dicionários, tuplas e funções.
-* **`03-analise-de-dados/`**: Projetos e desafios focados em análise exploratória com Pandas e NumPy.
-* **`04-mini-projetos/`**: Aplicações práticas e scripts completos desenvolvidos durante a formação.
+* **`01-fundamentos/`**: Exercícios de lógica de programação, estruturas condicionais, manipulação de listas, dicionários, tuplas e funções.
+* **`02-mini-projetos/`**: Projetos e desafios focados em análise exploratória com Pandas, NumPy, aplicações práticas e scripts completos desenvolvidos durante a formação.
 
 ---
 
